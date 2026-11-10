@@ -1,3 +1,4 @@
-requests==2.20.0
-crontab~=0.22.9
-beautifulsoup4==4.9.3
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+crontab>=1.0.5,<2
+
